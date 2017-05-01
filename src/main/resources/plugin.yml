@@ -1,0 +1,12 @@
+main: com.rayzr522.hidesnowballs.HideSnowballs
+name: HideSnowballs
+version: 1.0.0
+description: Hide snowballs with packets. One of my oddest plugin requests.
+author: Rayzr
+#depend: [CreativelyNamedLib]
+#commands:
+#  hidesnowballs:
+#    description: HideSnowballs main command
+#    aliases: [alias1,alias2]
+#    usage: "/hidesnowballs [command]"
+#    permission: HideSnowballs.main
